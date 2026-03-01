@@ -1,2 +1,2 @@
 # lamontdobbins3
-Repo for my Github profile
+Hi there and welcome to my Github
